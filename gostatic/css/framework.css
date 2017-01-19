@@ -1,0 +1,20 @@
+
+body {
+	font-family:		sans-serif;
+	padding:			0;
+}
+
+#header {
+	background-color:	black;
+	color:				white;
+}
+
+#content {
+	background-color:	lightgrey;
+}
+
+#footer {
+	font-size:			0.8em;
+	background-color:	darkgrey;
+	color:				white;
+}
