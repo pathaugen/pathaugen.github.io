@@ -54,6 +54,7 @@ body {
 }
 #footer .content-block-float {
 	float:				left;
+	padding-left:		2%;
 }
 /* ********** ********** ********** ********** ********** */
 
