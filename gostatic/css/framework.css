@@ -48,6 +48,7 @@ body {
 	color:				white;
 }
 #footer .content-block {
+	clear:				both;
 	margin:				2% auto;
 	width:				75%;
 }
